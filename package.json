@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "node.jsの学習ログ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shocci1214/node-js-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shocci1214/node-js-tutorial/issues"
+  },
+  "homepage": "https://github.com/shocci1214/node-js-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
