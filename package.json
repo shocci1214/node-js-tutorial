@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shocci1214/node-js-tutorial#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
